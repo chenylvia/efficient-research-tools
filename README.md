@@ -11,7 +11,8 @@
 - [Zotero](https://www.zotero.org/) —— 免费开源的文献管理工具,可方便的收集,组织,引用,和共享文献的工具
 
 ## 论文写作
-- [Overleaf](https://www.overleaf.com/) —— 支持多人协作的在线 LaTeX 编辑器
+- [Overleaf](https://www.overleaf.com/) —— 支持多人协作的在线 LaTeX 编辑器  
+- [Mathpix](https://mathpix.com/) —— 将数学公式的截图一键转成LaTeX代码
 
 
 ## 社交平台
