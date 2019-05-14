@@ -6,13 +6,14 @@
 - [Semantic scholar](https://www.semanticscholar.org/) —— 可结合外部材料整合进行论文的语义分析
 
 ## 文献管理
-- [EndNote](https://endnote.com/) —— 使用广泛，具有很多功能
+- [EndNote](https://endnote.com/) —— 使用广泛，具有丰富的功能
 - [Mendelay](https://www.mendeley.com/?interaction_required=true) —— 支持多种平台，支持Word、LaTeX等论文编写工具
 - [Zotero](https://www.zotero.org/) —— 免费开源的文献管理工具,可方便的收集,组织,引用,和共享文献的工具
 
 ## 论文写作
 - [Overleaf](https://www.overleaf.com/) —— 支持多人协作的在线 LaTeX 编辑器  
-- [Mathpix](https://mathpix.com/) —— 将数学公式的截图一键转成LaTeX代码
+- [Mathpix](https://mathpix.com/) —— 将数学公式的截图一键转成LaTeX代码  
+- [Typora](https://www.typora.io/) —— 简洁高效的Markdown编辑器
 
 
 ## 社交平台
