@@ -13,7 +13,8 @@
 ## 论文写作
 - [Overleaf](https://www.overleaf.com/) —— 支持多人协作的在线 LaTeX 编辑器  
 - [Mathpix](https://mathpix.com/) —— 将数学公式的截图一键转成LaTeX代码  
-- [Typora](https://www.typora.io/) —— 简洁高效的Markdown编辑器
+- [Typora](https://www.typora.io/) —— 简洁高效的Markdown编辑器  
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) —— 矢量图绘制软件，缩放不失真
 
 
 ## 社交平台
