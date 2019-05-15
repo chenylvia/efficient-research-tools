@@ -10,6 +10,7 @@
 - [EndNote](https://endnote.com/) —— 使用广泛，具有丰富的功能
 - [Mendelay](https://www.mendeley.com/?interaction_required=true) —— 支持多种平台，支持Word、LaTeX等论文编写工具
 - [Zotero](https://www.zotero.org/) —— 免费开源的文献管理工具,可方便的收集,组织,引用,和共享文献的工具  
+- [DocTranslator](https://www.onlinedoctranslator.com/) —— 免费的翻译网站，可将任意格式的文档翻译为任意语言
 
 ## 论文写作
 - [Overleaf](https://www.overleaf.com/) —— 支持多人协作的在线 LaTeX 编辑器  
