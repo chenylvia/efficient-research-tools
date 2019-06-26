@@ -6,7 +6,8 @@
 - [Semantic scholar](https://www.semanticscholar.org/) —— 可结合外部材料整合进行论文的语义分析
 - [Sci-Hub](http://tool.yovisun.com/scihub/) —— 免费的文献下载利器
 - [NILMTK](http://nilmtk.github.io/) —— 两行代码引入和转换公共数据集  
-- [龙猫学术导航](http://www.6453.net/) —— 外文期刊检索与下载的网站，其中有很多资源链接
+- [龙猫学术导航](http://www.6453.net/) —— 外文期刊检索与下载的网站，其中有很多资源链接  
+- [PaperWeekly](http://www.paperweekly.site/) —— 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台
 
 ## 文献管理
 - [EndNote](https://endnote.com/) —— 使用广泛，具有丰富的功能
