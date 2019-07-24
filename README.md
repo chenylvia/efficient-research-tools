@@ -1,5 +1,5 @@
 # efficient-research-tools
-收集一些高效的科研工具
+
 ## 文献搜索
 - [谷歌学术（镜像）](http://ac.scmor.com/) —— 使用最为广泛的学术搜索引擎
 - [Papers with Code](https://paperswithcode.com/sota) —— ArXiv上的最新机器学习论文及对应的数据GitHub上的代码
